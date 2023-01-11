@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+     background-color: rgb(211, 203, 203);
+ }
+ .container{
+     max-width: 900px;
+     background-color: #9ef3e3;
+     margin: 0 auto;
+     padding: 20px;
+ }
+ /* .electronics{
+   background-image: url(./image/icon\ \(5\).jpg);
+   /* height: 50vh;
+   width: 100%;
+   background-repeat: no-repeat, */
+   /* background-size: 600px 200px;
+   background-repeat: no-repeat; */ 
+
+ .profile-image{
+    width:100px ;
+    height: 110px;
+    border:3px solid white;
+    border-radius: 50%;
+    float:left;
+ }
+ .header-bio{
+    float:left;
+    padding: 30px;
+ }
+ h1,h2,h3,h4,h5,h6{
+    color:rgb(11, 99, 99)
+ }
+ .header-contact{
+    float: right;
+    padding: 30px;
+ }
+ .header-contact a{
+    text-decoration: underline;
+    color: rgb(57, 226, 226);
+    font-weight: bold;
+}
+ .header-contact a:hover{
+   text-decoration: underline;
+   color: rgb(214, 45, 15);
+ }
+ .div-cear{
+   clear: both;
+ }
+ hr{
+   border:solid black 3px;
+   width: 900px;
+   margin: 20px auto;
+   border-bottom: none;
+ }
+
+  /*-----------------------
+   personal section start
+   ---------------------*/
+   #personal section{
+
+   }
+   .content{
+margin-bottom: 30px;
+   }
+   .left-div{
+width: 30%;
+float: left;
+   }
+ .right-div{
+width: 70%;
+float: right;
+ }
+ .common-hr{
+   border:solid black 1px;
+   border-bottom: none;
+   width: 100%;
+   margin: 20px auto;
+ }
+
+ /*----------------------
+ Education Section Start
+ ----------------------*/
+
+ /*------------
+footer Start
+ -------------*/
+
+ .botton-container{
+   background-color: black;
+   text-align: center;
+   padding: 10px;
+ }
+ .botton-container a{
+   color: white;
+   text-decoration: none;
+   margin: 20px;
+ }
+ .botton-container p{
+   color: white;
+   margin-top: 20px;
+ }
